@@ -1,0 +1,46 @@
+Horários
+Palestrante
+Tema
+09:30
+Abertura
+Organização
+10:00
+Gisela Azevedo
+Inteligência Emocional - O recurso mais cobiçado nas organizações
+10:30
+Ana Paula Genari Martin
+QA no Devops - Como montar uma estratégia de testes
+11:00
+Victória Passarelli Kosztits
+Porque testes de acessibilidade?
+11:30
+Daniela Godinho Yabe & Letícia Alcantara Lima
+Quality Assurance: saiba onde começa e onde termina a sua atuação
+12:00
+Shirley Aparecida de Moura Silva
+Testes de Mutante
+12:30
+-
+Almoço
+-
+14:00
+Ketlin Uhlmann Pedron
+A importância do Teste de Contrato e como ele pode ser seu aliado
+14:30
+Beatriz Feliciano
+TDD com JUnit
+15:10
+Joyce Bastos
+Bugmetria - o uso de métricas para apoiar a priorização dos Bugs
+15:50
+Edlaine Silva Zamora & Thais Moura de Freitas
+React e Testes Unitários, como lidar?
+16:25
+Samanta Cicilia de Barros Souza
+Reflexões sobre estratégia de teste
+17:00
+Painel
+---
+18:05
+Fechamento
+-
